@@ -8,5 +8,4 @@ This repository is for the purpose of making the application usable on your loca
 - You're good to go! You could also set up Card Conjurer in a more traditional method using WAMP, Docker, XAMPP, etc.
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?longCache=true&style=popout)](https://www.paypal.me/kyleburtondonate
-) ← Help out Card Conjurer's original creator, Kyle. We love you buddy.
+
